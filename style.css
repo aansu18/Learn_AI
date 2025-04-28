@@ -1,0 +1,18 @@
+.hero-section {
+    background: url('https://png.pngtree.com/background/20230114/original/pngtree-vector-blue-and-black-technology-style-minimalist-business-background-picture-image_2007441.jpg') no-repeat center center;
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
